@@ -11,7 +11,9 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
     return Scaffold(
       backgroundColor: Colors.white,
       appBar: AppBar(
+
         title: Text("Github Testing workinher well"),
+
       ),
       body: Padding(
         padding: EdgeInsets.symmetric(horizontal: 24.0),
